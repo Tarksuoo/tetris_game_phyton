@@ -4,7 +4,7 @@ A classic Tetris game built with Python.
 
 
 ## 🛠️ Technologies Used
-
+ 
 - Python
 - Pygame
 
