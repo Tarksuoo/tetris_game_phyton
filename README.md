@@ -19,7 +19,7 @@ A classic Tetris game built with Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tetris.git
+   git clone https://github.com/Tarksuoo/tetris.git
    cd tetris
    ```
 
